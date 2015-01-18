@@ -6,10 +6,11 @@ jQuery.ZoomLoad是一款基于jQuery开发的插件，它可以让你的网站�
 调用方式
 加载jQuery库文件，以及jquery.zoomload.js文件
 
- <script type="text/javascript" src="js/jquery-1.7.2.js"></script>
- <script type="text/javascript" src="js/jquery.zoomload.js"></script>
+script type="text/javascript" src="js/jquery-1.7.2.js" <br/>
+script type="text/javascript" src="js/jquery.zoomload.js"
 
 一句话启用插件
 
 $('img.zoomload').zoomload();		
 
+http://www.qietu.com/p/jquery_zoomload
